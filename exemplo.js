@@ -11,8 +11,6 @@
 //---    let nome = prompt("colocar log:")
 //    console.log ("colocar ele para log");  --
 //              use o + para adicionar 
-
-
 // let pontos = 100
 
 // // parse int () --> transforma o que esta entre () em numeros inteiros.
