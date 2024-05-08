@@ -32,3 +32,12 @@ if (username == 2) {
         console.log("segunda")
 
 }
+
+// forma rapida de fazer isso
+// case "1" {
+//         console.log("segunda feira ")
+// break;
+// }
+
+// case: forma mais facil de representar um numero sem dar o ==
+//brake: feito para quebrar a continuação

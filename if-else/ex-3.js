@@ -5,7 +5,7 @@ let username = prompt("digite um numero da impar ou par")
 
 var num = 10;
  
-if (num % 2 === 0) {
+if (num%2 !== 0) {
   console.log('Par');
 } else {
   console.log('Ímpar');

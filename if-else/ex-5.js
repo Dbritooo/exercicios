@@ -12,18 +12,11 @@ let crescente03 = parseInt (prompt("digite um numero"))
 
 
 
-if (crescente01 > crescente02) {
-    console.log ("decrescente")
-}
+if(crescente01 < crescente02 && crescente02 < crescente03) {
 
-if (crescente02 > crescente03) {
-    console.log ("decrescente")
+    console.log("os numeros estao em ordem crescente")
 }
+else {
+console.log("os numeros NÃO estao em ordem crescente")
 
-if (crescente02 < crescente03) {
-    console.log ("crescente")
-}
-
-if (crescente01 < crescente02) {
-    console.log ("crescente")
 }
